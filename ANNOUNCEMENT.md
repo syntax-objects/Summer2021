@@ -10,9 +10,7 @@ Ground Rules:
 * the first 20 individuals who enter will win stickers
 * open July 1 to September 1
 
-Submit by opening an issue here:
- https://github.com/syntax-objects/Summer2021/issues/new?assignees=&labels=entry&template=enter-the-syntax-parse-bee.md&title=%5Bentry+-+name%2Fdescription+of+macro%5D
-
+Submit by opening an issue here: [submit your entry](https://github.com/syntax-objects/Summer2021/issues/new?assignees=&labels=entry&template=enter-the-syntax-parse-bee.md&title=%5Bentry+-+name%2Fdescription+of+macro%5D)
 
 To help you get started, we suggest two categories of before-and-after macro:
 
