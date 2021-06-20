@@ -45,9 +45,9 @@ All entries are welcome to join the syntax parse examples repo
 
 Fine print:
 * this is an UNOFFICIAL event run by Racket users (@spdegabrielle and @bennn)
-* entries must be submitted under the MIT license [1]
+* entries must be submitted under the [MIT license [1]](https://github.com/racket/racket/blob/master/racket/src/LICENSE-MIT.txt) for code, and http://creativecommons.org/licenses/by/4.0/ license for included text.
 * stickers will be mailed via USPS; international entries are allowed
-* please abide by the Racket Friendly Environment Policy [2]
+* please abide by the [Racket Friendly Environment Policy [2]](https://racket-lang.org/friendly.html)]
 
 [1] https://github.com/racket/racket/blob/master/racket/src/LICENSE-MIT.txt
 
