@@ -1,8 +1,8 @@
 ---
-name: 'Enter the 2021 Syntax Parse bee'
+name: Enter the 2021 Syntax Parse bee
 about: form to submit entries
 title: "[entry - name/description of macro]"
-labels: entry
+labels: ''
 assignees: ''
 
 ---
@@ -15,6 +15,7 @@ Please enter the bee by submitting code (or links to code) for:
 
 Thank you for your submission!
 
+If your entry is a PR to the [syntax parse examples repository](https://github.com/bennn/syntax-parse-example), please include a link to the PR.
 
 ## Macro
 
@@ -50,5 +51,3 @@ Thank you for your submission!
 > If you do not wish to be contacted, please write "let me be" below.
 > If you wish to be contacted through email, please include it on the above form. 
 > Otherwise, leave this section blank.
-
-
