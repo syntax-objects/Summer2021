@@ -44,5 +44,6 @@ Fine print:
 * please abide by the Racket Friendly Environment Policy [2]
 
 [1] https://github.com/racket/racket/blob/master/racket/src/LICENSE-MIT.txt
+
 [2] https://racket-lang.org/friendly.html
 
