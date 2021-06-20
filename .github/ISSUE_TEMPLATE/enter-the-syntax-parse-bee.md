@@ -45,9 +45,10 @@ Thank you for your submission!
 
 ## Contact
 
-> We plan to use GitHub to contact winners.
+> To receive prizes and/or provide feedback lease complete
+> the form at https://forms.gle/Z5CN2xzK13dfkBnF7 (google account not required / email optional)
 > If you do not wish to be contacted, please write "let me be" below.
-> If you wish to be contacted through email, please write your preferred email address below.
+> If you wish to be contacted through email, please include it on the above form. 
 > Otherwise, leave this section blank.
 
 
