@@ -2,7 +2,13 @@
 
 Hi folks,
 
-Write a macro with Racket this summer! Win stickers!
+**Write a macro with Racket this summer! Win stickers!**
+
+The purpose of this competition is to grow the [syntax-parse-example](https://docs.racket-lang.org/syntax-parse-example/index.html) [documentation](https://docs.racket-lang.org/syntax-parse-example/index.html) and [repository](https://github.com/bennn/syntax-parse-example) to grow as a resource for the Racket community.
+
+_It's like a Quilting Bee, but for syntax parse macros!_
+
+As we hope to include many new examples derived from the entries in the syntax-parse-example [documentation](https://docs.racket-lang.org/syntax-parse-example/index.html) and [repository](https://github.com/bennn/syntax-parse-example) we ask entrants to licence their code under the same MIT license [1] as used by Racket, and your text under the http://creativecommons.org/licenses/by/4.0/ license.
 
 Ground Rules:
 * you can write any macro as long as it uses [syntax-parse](https://docs.racket-lang.org/syntax/stxparse.html) somehow
