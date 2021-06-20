@@ -5,9 +5,9 @@ Hi folks,
 Write a macro with Racket this summer! Win stickers!
 
 Ground Rules:
-* you can write any macro as long as it uses syntax-parse somehow
+* you can write any macro as long as it uses [syntax-parse](https://docs.racket-lang.org/syntax/stxparse.html) somehow
 * enter as many times as you like
-* the first 20 individuals who enter will win stickers
+* the first 20 individuals who enter will win exclusive stickers
 * open July 1 to September 1
 
 Submit by opening an issue here: [submit your entry](https://github.com/syntax-objects/Summer2021/issues/new?assignees=&labels=entry&template=enter-the-syntax-parse-bee.md&title=%5Bentry+-+name%2Fdescription+of+macro%5D)
