@@ -4,7 +4,7 @@ Hi folks,
 
 **Write a macro with Racket this summer! Win stickers!**
 
-The purpose of this competition is to grow the [syntax-parse-example](https://docs.racket-lang.org/syntax-parse-example/index.html) [documentation](https://docs.racket-lang.org/syntax-parse-example/index.html) and [repository](https://github.com/bennn/syntax-parse-example) to grow as a resource for the Racket community.
+The purpose of this competition is to grow the [syntax-parse-example](https://docs.racket-lang.org/syntax-parse-example/index.html) [documentation](https://docs.racket-lang.org/syntax-parse-example/index.html) and [repository](https://github.com/bennn/syntax-parse-example) to grow as a resource for the Racket community. (You can also contribute directly to the [syntax parse examples repository](https://github.com/bennn/syntax-parse-example))
 
 _It's like a Quilting Bee, but for syntax parse macros!_
 
@@ -40,16 +40,17 @@ Syntax parse docs:
 More syntax parse examples:
  https://docs.racket-lang.org/syntax-parse-example/index.html
 
-All entries are welcome to join the syntax parse examples repo
-
+All entries are welcome to join the [syntax parse examples repository](https://github.com/bennn/syntax-parse-example).
 
 Fine print:
 * this is an UNOFFICIAL event run by Racket users (@spdegabrielle and @bennn)
-* entries must be submitted under the [MIT license [1]](https://github.com/racket/racket/blob/master/racket/src/LICENSE-MIT.txt) for code, and http://creativecommons.org/licenses/by/4.0/ license for included text.
+* entries must be submitted under the [MIT license [1]](https://github.com/racket/racket/blob/master/racket/src/LICENSE-MIT.txt) for code, and [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/) [3] license for the included text.
 * stickers will be mailed via USPS; international entries are allowed
-* please abide by the [Racket Friendly Environment Policy [2]](https://racket-lang.org/friendly.html)]
+* please abide by the [Racket Friendly Environment Policy [2]](https://racket-lang.org/friendly.html)
 
 [1] https://github.com/racket/racket/blob/master/racket/src/LICENSE-MIT.txt
 
 [2] https://racket-lang.org/friendly.html
+
+[3] http://creativecommons.org/licenses/by/4.0/
 
