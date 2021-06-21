@@ -32,8 +32,8 @@ Whatever you decide, we hope that you learn and have fun!
 - Ben + Stephen
 
 
-PS a 'Bee' is a community effort toward a common goal. Think: quilting bee.  In
-this case the 'quilt' is a patchwork of syntax-parse macros.
+PS a 'Bee' is a community effort toward a common goal. A quilting bee is for
+making a quilt. In this case the 'quilt' is a patchwork of syntax-parse macros.
 
 
 - - -
