@@ -4,7 +4,7 @@ Hi folks,
 
 **Write a macro with Racket this summer! Win stickers!**
 
-The purpose of this competition is to grow the [syntax-parse-example](https://docs.racket-lang.org/syntax-parse-example/index.html) [documentation](https://docs.racket-lang.org/syntax-parse-example/index.html) and [repository](https://github.com/bennn/syntax-parse-example) to grow as a resource for the Racket community. (You can also contribute directly to the [syntax parse examples repository](https://github.com/bennn/syntax-parse-example))
+The purpose of this event is to grow the [syntax-parse-example](https://docs.racket-lang.org/syntax-parse-example/index.html) [documentation](https://docs.racket-lang.org/syntax-parse-example/index.html) and [repository](https://github.com/bennn/syntax-parse-example) to grow as a resource for the Racket community. (You can also contribute directly to the [syntax parse examples repository](https://github.com/bennn/syntax-parse-example))
 
 _It's like a Quilting Bee, but for syntax parse macros!_
 
@@ -33,7 +33,7 @@ Whatever you decide, we hope that you learn and have fun!
 
 
 PS a 'Bee' is a community effort toward a common goal. A quilting bee is for
-making a quilt. In this case the 'quilt' is a patchwork of syntax-parse macros.
+making a quilt. In this case the quilt is a patchwork of syntax-parse macros.
 
 
 - - -
@@ -41,16 +41,21 @@ making a quilt. In this case the 'quilt' is a patchwork of syntax-parse macros.
 Syntax parse docs:
  https://docs.racket-lang.org/syntax/stxparse.html
 
-More syntax parse examples:
+extra Syntax parse examples:
  https://docs.racket-lang.org/syntax-parse-example/index.html
 
-All entries are welcome to join the [syntax parse examples repository](https://github.com/bennn/syntax-parse-example).
+Mythical Macros tutorial:
+ https://soegaard.github.io/mythical-macros/
+
+Macros and Languages in Racket book draft:
+ http://rmculpepper.github.io/malr/
 
 Fine print:
 * this is an UNOFFICIAL event run by Racket users (@spdegabrielle and @bennn)
 * entries must be submitted under the [MIT license [1]](https://github.com/racket/racket/blob/master/racket/src/LICENSE-MIT.txt) for code, and [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/) [3] license for the included text.
 * stickers will be mailed via USPS; international entries are allowed
 * please abide by the [Racket Friendly Environment Policy [2]](https://racket-lang.org/friendly.html)
+
 
 [1] https://github.com/racket/racket/blob/master/racket/src/LICENSE-MIT.txt
 
