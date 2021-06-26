@@ -27,6 +27,8 @@ To help you get started, we suggest two categories of before-and-after macro:
    macro (which may or may not currently use syntax-parse). Try to make the old
    macro more maintainable, more robust against errors, and/or more flexible.
 
+Updates will be via Racket News, Racket-Users, Slack, Discord & Reddit.
+
 Whatever you decide, we hope that you learn and have fun!
 
 - Ben + Stephen
