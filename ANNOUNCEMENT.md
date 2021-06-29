@@ -43,8 +43,11 @@ making a quilt. In this case the quilt is a patchwork of syntax-parse macros.
 Syntax parse docs:
  https://docs.racket-lang.org/syntax/stxparse.html
 
-extra Syntax parse examples:
- https://docs.racket-lang.org/syntax-parse-example/index.html
+Syntax parse examples:
+ https://docs.racket-lang.org/syntax-parse-example/
+
+Extra syntax classes:
+ https://docs.racket-lang.org/syntax-classes/
 
 Mythical Macros tutorial:
  https://soegaard.github.io/mythical-macros/
