@@ -54,6 +54,9 @@ Mythical Macros tutorial:
 
 Macros and Languages in Racket book draft:
  http://rmculpepper.github.io/malr/
+ 
+Fear of Macros:
+ https://www.greghendershott.com/fear-of-macros/all.html
 
 Fine print:
 * this is an UNOFFICIAL event run by Racket users (@spdegabrielle and @bennn)
