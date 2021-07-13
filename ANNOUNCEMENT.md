@@ -40,6 +40,16 @@ making a quilt. In this case the quilt is a patchwork of syntax-parse macros.
 
 - - -
 
+## Resources
+
+The [Fear of Macros tutorial](https://www.greghendershott.com/fear-of-macros/) is a great resource for basic macro engineering (though, not syntax-parse in particular).
+
+Mythical Macros tutorial:
+ https://soegaard.github.io/mythical-macros/
+
+Macros and Languages in Racket book draft:
+ http://rmculpepper.github.io/malr/
+
 Syntax parse docs:
  https://docs.racket-lang.org/syntax/stxparse.html
 
@@ -48,12 +58,6 @@ Syntax parse examples:
 
 Extra syntax classes:
  https://docs.racket-lang.org/syntax-classes/
-
-Mythical Macros tutorial:
- https://soegaard.github.io/mythical-macros/
-
-Macros and Languages in Racket book draft:
- http://rmculpepper.github.io/malr/
 
 Fine print:
 * this is an UNOFFICIAL event run by Racket users (@spdegabrielle and @bennn)
