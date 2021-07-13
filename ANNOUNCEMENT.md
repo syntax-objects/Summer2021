@@ -40,9 +40,18 @@ making a quilt. In this case the quilt is a patchwork of syntax-parse macros.
 
 - - -
 
-## Resources
+## Resources/notes
+
+Q. Why `syntax/parse` macros?  A. `syntax/parse` provides functionality for writing macros and specifying syntax that automatically validates macro uses and reports syntax errors.
+
+Q. I've not written macros before how can I get started?
+
+A. The following resources are recommended, but if you run into trouble don't hesitate to ask for help on [racket-users](https://lists.racket-lang.org/), [Slack](https://racket-slack.herokuapp.com/), [Discord](https://discord.gg/6Zq8sH5) or [#racket IRC](https://kiwiirc.com/nextclient/irc.libera.chat/#racket).
 
 The [Fear of Macros tutorial](https://www.greghendershott.com/fear-of-macros/) is a great resource for basic macro engineering (though, not syntax-parse in particular).
+
+The Racket Guide also provides an introduction to macros, but like Fear of Macros doesn't cover Syntax Parse: 
+ https://docs.racket-lang.org/guide/macros.html
 
 Mythical Macros tutorial:
  https://soegaard.github.io/mythical-macros/
@@ -58,6 +67,9 @@ Syntax parse examples:
 
 Extra syntax classes:
  https://docs.racket-lang.org/syntax-classes/
+
+Racket includes a macro debugger to make it easier for experienced programmers to debug their macros and for novices to study their behavior.
+ https://docs.racket-lang.org/macro-debugger/index.html
 
 Fine print:
 * this is an UNOFFICIAL event run by Racket users (@spdegabrielle and @bennn)
