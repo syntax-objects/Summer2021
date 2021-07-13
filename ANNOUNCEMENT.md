@@ -42,9 +42,12 @@ making a quilt. In this case the quilt is a patchwork of syntax-parse macros.
 
 ## Resources/notes
 
-Q. Why `syntax/parse` macros?  A. `syntax/parse` provides functionality for writing macros and specifying syntax that automatically validates macro uses and reports syntax errors.
+### Q. Why `syntax/parse` macros?  
 
-Q. I've not written macros before how can I get started?
+A. `syntax/parse` provides functionality for writing macros and specifying syntax that automatically validates macro uses and reports syntax errors.
+
+
+### Q. I've not written macros before how can I get started?
 
 A. The following resources are recommended, but if you run into trouble don't hesitate to ask for help on [racket-users](https://lists.racket-lang.org/), [Slack](https://racket-slack.herokuapp.com/), [Discord](https://discord.gg/6Zq8sH5) or [#racket IRC](https://kiwiirc.com/nextclient/irc.libera.chat/#racket).
 
