@@ -1,5 +1,7 @@
 # Syntax Parse Bee 2021
 
+** the Bee is over ! Thank you all for participating **
+
 Hi folks,
 
 **Write a macro with Racket this summer! Win stickers!**
