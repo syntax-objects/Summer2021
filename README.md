@@ -1,5 +1,7 @@
 # Syntax Parse Bee Summer 2021
 
+[_A community-led Racket event. Click to see others, past & future._](https://docs.google.com/document/d/1OAGSAXk7AfhVLEcjyeihh2IXKX9ZhUM0ZvKnObP6kxk/edit)
+
 The Syntax Parse Bee is now over for 2021.
 
 Thank you to the participants!!!
